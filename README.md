@@ -1,7 +1,5 @@
 This repository contains my Artificial Neural Network (ANN) implementation report, detailing the development and evaluation of various ANN models.
 
-Overview
-
 This project involves:
 
 Data preprocessing
