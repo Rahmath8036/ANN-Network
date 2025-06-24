@@ -5,7 +5,6 @@ This project involves:
 Data preprocessing
 Model implementation
 Training and evaluation
-Key Highlights
 
 Data Preprocessing:
 
